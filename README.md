@@ -82,3 +82,32 @@ Dica: Procure o nome do pacode + gnome no google, primeiro link.
 Dica de wallpaper que combina com o tema:
 
 [https://wallpapercave.com/download/4k-pc-wallpapers-wp4676582]
+
+Comandos alias que costumo utilizar:
+
+```
+# Custom command do SamuquinhaDev
+
+# Node e npm
+alias ni='npm install'
+alias nrs='npm run start'
+alias nrd='npm run dev'
+alias n='node'
+
+# Git
+alias gcm='git commit -m'
+alias gcam='git commit -am'
+alias gpo='git push origin'
+alias ga='git add .'
+
+# Ionic
+alias is='ionic serve'
+
+# Angular
+alias ngs='ng serve -o'
+
+# Linux 
+alias l='ls -CF'
+alias la='ls -A'
+alias cc='clear'
+```
